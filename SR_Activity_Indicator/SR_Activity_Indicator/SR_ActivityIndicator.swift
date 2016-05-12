@@ -13,13 +13,6 @@ import UIKit
 
 class SR_ActivityIndicator: UIView {
     
-    enum SpinnerStyle : Int{
-        case None = 0
-        case Light = 1
-        case Dark = 2
-    }
-    
-    var Style : SpinnerStyle = .None
     
     @IBInspectable var hidesWhenStopped : Bool = false
     @IBInspectable var outerFillColor : UIColor = UIColor.clearColor()
