@@ -4,8 +4,7 @@ It is an custom activity indicator with center image. You can change center imag
 
 
 
-
-![3c2a1f5e-0336-11e6-9e68-ed8526bf3eaf-2](https://cloud.githubusercontent.com/assets/18482070/14580410/669cca9c-03eb-11e6-884c-18c688098cc5.gif)
+![www gifcreator me_kxagih](https://cloud.githubusercontent.com/assets/18482070/15607933/1e0eac30-2436-11e6-9f57-47f437161f1b.gif)
 
 
 # To Include this on Your project
